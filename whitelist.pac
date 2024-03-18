@@ -7,6 +7,9 @@ var white_domains = {
 "club":{
 "xhup":1
 },
+"fun":{
+"klarn":1
+},
 "live":{
 "lanjing":1,
 "zhuafan":1,
