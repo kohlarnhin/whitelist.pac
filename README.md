@@ -12,7 +12,7 @@
 ![chrome-1](/img/chrome-1.png)
 ![chrome-2](/img/chrome-2.png)
 
-更新的pac地址: [https://raw.githubusercontent.com/MatcherAny/whitelist.pac/master/whitelist.pac](https://raw.githubusercontent.com/kohlarnhin/whitelist.pac/master/whitelist.pac)
+更新的pac地址: [https://raw.githubusercontent.com/kohlarnhin/whitelist.pac/master/whitelist.pac](https://raw.githubusercontent.com/kohlarnhin/whitelist.pac/master/whitelist.pac)
 
 ![chrome-3](/img/chrome-3.png)
 ![chrome-4](/img/chrome-4.png)
